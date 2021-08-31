@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=berttejeda&show_icons=true&theme=dracula&hide_border=true)
+I'm a founding member at [Tecknicos](https://www.tecknicos.com)
+- 🔭 I'm currently working on [bert.bill](https://github.com/berttejeda/bert.bill) (personal project for helping others learn new technologies).
+- 🌱 I'm currently learning [React](https://reactjs.org/docs/getting-started.html)
+- 💬 Ask me about DevOps!
+- 📫 How to reach me: [Email](mailto://berttejeda@gmail.com) is the best way. I can also respond on [Twitter](https://twitter.com/bertDotSelf)
+
+![Bert Tejeda's Github Stats](https://github-readme-stats.vercel.app/api?username=berttejeda&show_icons=true&theme=dracula&hide_border=true)
 
 <!--
-**GreatWizard/GreatWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**berttejeda/berttejeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
