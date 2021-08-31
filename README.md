@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a founding member at [Tecknicos](https://www.tecknicos.com)
-- 🔭 I'm currently working on [bert.bill](https://github.com/berttejeda/bert.bill) (personal project for helping others learn new technologies).
-- 🌱 I'm currently learning [React](https://reactjs.org/docs/getting-started.html)
+::I'm a DevOps head::
+- 🔭 Currently working on [bert.bill](https://github.com/berttejeda/bert.bill) (personal project for helping others learn new technologies).
+- 🌱 Currently learning [React](https://reactjs.org/docs/getting-started.html)
 - 💬 Ask me about DevOps!
 - 📫 How to reach me: [Email](mailto://berttejeda@gmail.com) is the best way. I can also respond on [Twitter](https://twitter.com/bertDotSelf)
 
