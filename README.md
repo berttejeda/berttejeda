@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ::I'm a DevOps head::
-- 🔭 Currently working on [bert.bill](https://github.com/berttejeda/bert.bill) (personal project for helping others learn new technologies).
+- 🔭 Currently working on [bert.dashboard](https://github.com/berttejeda/bert.dashboard)<br />
+     Personal project for building a super dashboard, with a built-in ineractive knowledgebase<br />
+     to help others learn new technologies
 - 🌱 Currently learning [React](https://reactjs.org/docs/getting-started.html)
 - 💬 Ask me about DevOps!
 - 📫 How to reach me: [Email](mailto://berttejeda@gmail.com) is the best way. I can also respond on [Twitter](https://twitter.com/bertDotSelf)
